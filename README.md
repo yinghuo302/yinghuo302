@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm yinghuo302</h1>
 <h3 align="center">A Student from Nanjing University.</h3>
 
-- 🔭 I’m currently working on [MIT 6.824](https://github.com/zanilia1016/MIT6.824)
+- 🔭 I’m currently working on [MIT 6.824](https://github.com/yinghuo302/MIT6.824)
 
 - 🌱 I’m currently learning **Backend Development, MLSystem**
 
