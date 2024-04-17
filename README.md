@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm yinghuo302</h1>
 <h3 align="center">A Student from Nanjing University.</h3>
 
-- 🔭 I’m currently working on [MIT 6.824](https://github.com/yinghuo302/MIT6.824)
+- 🔭 I’m currently working on [ascend-llm](https://github.com/yinghuo302/ascend-llm)
 
 - 🌱 I’m currently learning **Backend Development, MLSystem**
 
-- 📫 How to reach me **yinghuo302@gmail.com**
+- 📫 How to reach me **yinghuo302@gmail.com** or **yinghuo302@163.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
